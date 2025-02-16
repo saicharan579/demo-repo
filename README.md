@@ -2,4 +2,5 @@
 
 this repo content only demo application to understand GitHub usage.
 
-this is second line to check the commite in github.
+
+small changes in github by removing second commit.
